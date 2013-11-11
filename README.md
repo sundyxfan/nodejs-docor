@@ -1,6 +1,6 @@
 ## ![logo](https://cdn1.iconfinder.com/data/icons/windows8_icons_iconpharm/26/doctor.png) docor ![npm](https://badge.fury.io/js/docor.png)
 
-a smart and tiny doc-maker using default package.json by [turing](https://npmjs.org/~turing) 
+a smart and tiny doc-maker using default package.json by [xfan](https://npmjs.org/~xfan) 
 
 ### Installation
 ````
