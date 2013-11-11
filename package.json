@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-docor",
+  "version": "0.0.1",
+  "description": "the tool create README.md  by package.json on current directory",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sundyxfan/demo.git"
+  },
+  "author": "xfan",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/sundyxfan/demo/issues"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "docor"
+  ]
+}
